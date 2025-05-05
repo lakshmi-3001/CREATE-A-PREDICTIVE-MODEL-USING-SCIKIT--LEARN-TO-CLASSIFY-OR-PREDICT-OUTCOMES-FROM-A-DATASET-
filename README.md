@@ -12,9 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-*DESCRIPTION* : Great! Here's your original text expanded and polished to around **500 words** while maintaining clarity, structure, and technical depth:
-
----
+*DESCRIPTION* :
 
 ### **Project Title: Spam Email Classification Using Machine Learning (Scikit-learn)**
 
@@ -51,8 +49,6 @@ For this project, I used a publicly available **spam mail dataset from Kaggle**.
 These metrics helped in understanding how well the model generalized to unseen data.
 
 #### **Applications of This Model**
-
-While the focus was spam detection, the same approach can be extended to many fields:
 
 1. **Spam Detection** – Filtering unwanted emails.
 2. **Fraud Detection** – Identifying suspicious transactions.
